@@ -6,7 +6,10 @@
 /*   By: yuychen <yuychen@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/15 16:17:54 by yuychen           #+#    #+#             */
-/*   Updated: 2025/11/15 16:17:55 by yuychen          ###   ########.fr       */
+/*   Updated: 2025/11/15 16:20:23 by yuychen          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#ifndef MINISHELL_H
+#define MINISHELL_H
+#endif
